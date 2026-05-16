@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- [Azure Security Engineering Lab](https://github.com/Dbluetech/Azure-Security-Eng-Lab)
   - [Praciting DS & Algos in Python]()
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
